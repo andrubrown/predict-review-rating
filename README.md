@@ -13,7 +13,7 @@ We achieved an accuracy of 61% in predicting review rating stars.
 #### Code
 Most files are IPython notebooks (`.ipynb` extension with JSON data).
 
-The following modules are used in at least one example:
+The following modules are used in at least one of the examples:
 
   * Python 2.7
   * NumPy
